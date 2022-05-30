@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BlockchainVoting/client/static/css/main.4b2f2b10.chunk.css",
-    "main.js": "/BlockchainVoting/client/static/js/main.87045dc5.chunk.js",
-    "main.js.map": "/BlockchainVoting/client/static/js/main.87045dc5.chunk.js.map",
-    "runtime-main.js": "/BlockchainVoting/client/static/js/runtime-main.f4b78309.js",
-    "runtime-main.js.map": "/BlockchainVoting/client/static/js/runtime-main.f4b78309.js.map",
-    "static/js/2.01fc712a.chunk.js": "/BlockchainVoting/client/static/js/2.01fc712a.chunk.js",
-    "static/js/2.01fc712a.chunk.js.map": "/BlockchainVoting/client/static/js/2.01fc712a.chunk.js.map",
-    "index.html": "/BlockchainVoting/client/index.html",
-    "static/css/main.4b2f2b10.chunk.css.map": "/BlockchainVoting/client/static/css/main.4b2f2b10.chunk.css.map",
-    "static/js/2.01fc712a.chunk.js.LICENSE.txt": "/BlockchainVoting/client/static/js/2.01fc712a.chunk.js.LICENSE.txt"
+    "main.css": "/BlockchainBasedVoting/client/build/static/css/main.4b2f2b10.chunk.css",
+    "main.js": "/BlockchainBasedVoting/client/build/static/js/main.87045dc5.chunk.js",
+    "main.js.map": "/BlockchainBasedVoting/client/build/static/js/main.87045dc5.chunk.js.map",
+    "runtime-main.js": "/BlockchainBasedVoting/client/build/static/js/runtime-main.0e3bacd7.js",
+    "runtime-main.js.map": "/BlockchainBasedVoting/client/build/static/js/runtime-main.0e3bacd7.js.map",
+    "static/js/2.01fc712a.chunk.js": "/BlockchainBasedVoting/client/build/static/js/2.01fc712a.chunk.js",
+    "static/js/2.01fc712a.chunk.js.map": "/BlockchainBasedVoting/client/build/static/js/2.01fc712a.chunk.js.map",
+    "index.html": "/BlockchainBasedVoting/client/build/index.html",
+    "static/css/main.4b2f2b10.chunk.css.map": "/BlockchainBasedVoting/client/build/static/css/main.4b2f2b10.chunk.css.map",
+    "static/js/2.01fc712a.chunk.js.LICENSE.txt": "/BlockchainBasedVoting/client/build/static/js/2.01fc712a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4b78309.js",
+    "static/js/runtime-main.0e3bacd7.js",
     "static/js/2.01fc712a.chunk.js",
     "static/css/main.4b2f2b10.chunk.css",
     "static/js/main.87045dc5.chunk.js"
