@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BlockchainVoting/static/css/main.4b2f2b10.chunk.css",
-    "main.js": "/BlockchainVoting/static/js/main.87045dc5.chunk.js",
-    "main.js.map": "/BlockchainVoting/static/js/main.87045dc5.chunk.js.map",
-    "runtime-main.js": "/BlockchainVoting/static/js/runtime-main.6a74eea9.js",
-    "runtime-main.js.map": "/BlockchainVoting/static/js/runtime-main.6a74eea9.js.map",
-    "static/js/2.01fc712a.chunk.js": "/BlockchainVoting/static/js/2.01fc712a.chunk.js",
-    "static/js/2.01fc712a.chunk.js.map": "/BlockchainVoting/static/js/2.01fc712a.chunk.js.map",
-    "index.html": "/BlockchainVoting/index.html",
-    "static/css/main.4b2f2b10.chunk.css.map": "/BlockchainVoting/static/css/main.4b2f2b10.chunk.css.map",
-    "static/js/2.01fc712a.chunk.js.LICENSE.txt": "/BlockchainVoting/static/js/2.01fc712a.chunk.js.LICENSE.txt"
+    "main.css": "/BlockchainVoting/client/static/css/main.4b2f2b10.chunk.css",
+    "main.js": "/BlockchainVoting/client/static/js/main.87045dc5.chunk.js",
+    "main.js.map": "/BlockchainVoting/client/static/js/main.87045dc5.chunk.js.map",
+    "runtime-main.js": "/BlockchainVoting/client/static/js/runtime-main.f4b78309.js",
+    "runtime-main.js.map": "/BlockchainVoting/client/static/js/runtime-main.f4b78309.js.map",
+    "static/js/2.01fc712a.chunk.js": "/BlockchainVoting/client/static/js/2.01fc712a.chunk.js",
+    "static/js/2.01fc712a.chunk.js.map": "/BlockchainVoting/client/static/js/2.01fc712a.chunk.js.map",
+    "index.html": "/BlockchainVoting/client/index.html",
+    "static/css/main.4b2f2b10.chunk.css.map": "/BlockchainVoting/client/static/css/main.4b2f2b10.chunk.css.map",
+    "static/js/2.01fc712a.chunk.js.LICENSE.txt": "/BlockchainVoting/client/static/js/2.01fc712a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a74eea9.js",
+    "static/js/runtime-main.f4b78309.js",
     "static/js/2.01fc712a.chunk.js",
     "static/css/main.4b2f2b10.chunk.css",
     "static/js/main.87045dc5.chunk.js"
